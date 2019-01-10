@@ -27,13 +27,13 @@ googleAnalytics         = "UA-85614178-2"             # Tracking code, eg. "UA-1
     primaryImage        = "tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
-    link = "https://github.com/clusterfrak-dynamics"
+    link = "/about-clusterfrak-dynamics"
     text = "/clusterfrak-dynamics"
 
 [[params.mainMenu]]
-    link = "/symplegma"
-    text = "\n/symplegma"
+    link = "/about-symplegma"
+    text = "/symplegma"
 
 [[params.mainMenu]]
-    link = "/teks"
-    text = "    /teks"
+    link = "/about-teks"
+    text = "/teks"
