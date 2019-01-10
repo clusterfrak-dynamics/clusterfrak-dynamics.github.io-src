@@ -1,4 +1,4 @@
-baseurl                 = "archifleks.github.io/"               # Your domain name. Must end with "/"
+baseurl                 = "https://clusterfrak-dynamics.github.io/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false
