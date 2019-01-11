@@ -7,9 +7,10 @@ before_install:
 install:
 - pip install ghp-import
 script:
-- wget -qO- "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" | tar xvz
+- wget -qO- "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz"
+  | tar xvz
 - ls
-- ./hugo
+- "./hugo"
 - ghp-import public
 branches:
   only:
