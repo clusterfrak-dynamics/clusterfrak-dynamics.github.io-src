@@ -19,7 +19,7 @@ googleAnalytics         = "UA-85614178-2"             # Tracking code, eg. "UA-1
                                                          # Note: This will only become active if clickablePhotos is also true.
     smallImagesSubfolder = "small/"                      # The subfolder for the small versions of the images under the gallery (with trailing slash)
                                                          # For each image the small version has to have the same filename as the big version.
-    footerText          = "© 2018. Kevin Lefevre. [Some Rights Reserved](https://creativecommons.org/licenses/by-sa/4.0/)."
+    footerText          = "© 2019. Kevin Lefevre. [Some Rights Reserved](https://creativecommons.org/licenses/by-sa/4.0/)."
 
 # Metadata
     description         = "clusterfrak-dynamics"            # Max 160 characters show in search results
