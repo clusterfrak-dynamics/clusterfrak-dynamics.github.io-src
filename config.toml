@@ -37,3 +37,7 @@ googleAnalytics         = "UA-85614178-2"             # Tracking code, eg. "UA-1
 [[params.mainMenu]]
     link = "/about-teks"
     text = "/teks"
+
+[[params.mainMenu]]
+    link = "/about-tgke"
+    text = "/teks"
